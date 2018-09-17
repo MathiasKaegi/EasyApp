@@ -16,5 +16,11 @@ namespace WinForm
         {
             InitializeComponent();
         }
+        
+        private void test()
+        {
+            var doNothing = 1;
+        }
+        
     }
 }

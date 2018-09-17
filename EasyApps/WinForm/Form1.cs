@@ -16,6 +16,11 @@ namespace WinForm
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Das ist ein Test");
+        }
         
         private void test()
         {

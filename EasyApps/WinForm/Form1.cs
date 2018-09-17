@@ -21,5 +21,11 @@ namespace WinForm
         {
             MessageBox.Show("Das ist ein Test");
         }
+        
+        private void test()
+        {
+            var doNothing = 1;
+        }
+        
     }
 }
